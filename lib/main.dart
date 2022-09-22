@@ -78,7 +78,7 @@ class Aplikasi extends StatelessWidget {
                         ),
                         children: const  <TextSpan>[
                           TextSpan(
-                            text: 'Yosef Adrian',
+                            text: 'Yosef Adrian K',
                             style: TextStyle(
                                 fontFamily: 'RobotoMono',
                               fontWeight: FontWeight.normal
